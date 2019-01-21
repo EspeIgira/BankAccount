@@ -1,0 +1,20 @@
+h1{
+  text-align: center;
+  background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaN3Tlzv8CQwyFCtjjxjoHZzfSKWdOO_zgnZwCFrbamUb29Lm3mQ);
+  
+}
+.jumbotron{
+  color:blue;
+  background-color:lightslategray;
+}
+
+#full-name{
+  color:blue;
+}
+button{
+  background-color: lightslategray;
+  color:black;
+}
+body{
+  background-color:lightsalmon;
+}
